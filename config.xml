@@ -46,5 +46,6 @@
 <gap:plugin name="org.apache.cordova.dialogs" />
 <gap:plugin name="org.apache.cordova.splashscreen" />
 <gap:plugin name="org.apache.cordova.vibration" />
+<gap:plugin name="io.github.pwlin.cordova.plugins.fileopener2" version="1.0.11" />
 <access origin="*" subdomains="true"/>
 </widget>
